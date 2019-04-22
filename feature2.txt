@@ -1,1 +1,2 @@
 Repo2 created feature2.txt
+Repo2 added line (g2)
